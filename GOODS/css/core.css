@@ -1,3 +1,7 @@
+#form {
+    margin: 10px 0 5px;
+}
+
 .item-close.close {
     opacity: 0;
 }
